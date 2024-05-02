@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tsparticles/basic": "^3.3.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/shape-image": "^3.3.0",
+    "@tsparticles/slim": "^3.3.0",
+    "framer-motion": "^11.1.7",
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.3.0",
+    "tsparticles-engine": "^2.12.0",
+    "tsparticles-move-base": "^2.12.0",
+    "tsparticles-shape-circle": "^2.12.0",
+    "tsparticles-shape-image": "^2.12.0",
+    "tsparticles-slim": "^2.12.0",
+    "tsparticles-updater-color": "^2.12.0",
+    "tsparticles-updater-opacity": "^2.12.0",
+    "tsparticles-updater-out-modes": "^2.12.0",
+    "tsparticles-updater-size": "^2.12.0"
   },
   "devDependencies": {
     "postcss": "^8",
